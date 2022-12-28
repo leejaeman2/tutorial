@@ -1,3 +1,4 @@
 easy git command
 register add change to index
 write commin index state
+pull repository contents
