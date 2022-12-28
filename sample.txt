@@ -1,2 +1,3 @@
 easy git command
 register add change to index
+pull repository contents
