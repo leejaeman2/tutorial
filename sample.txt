@@ -1,1 +1,2 @@
 easy git command
+register add change to index
